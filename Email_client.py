@@ -31,7 +31,7 @@ async def main():
         stderr=subprocess.PIPE
     )
 
-    Wait briefly to ensure server is up before connecting
+    # Wait briefly to ensure server is up before connecting
     time.sleep(2)
 
 
