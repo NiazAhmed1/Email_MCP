@@ -229,7 +229,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/your-username/gmail-mcp/issues) page
+1. Check the [Issues](git clone https://github.com/NiazAhmed1/Email_MCP/issues) page
 2. Create a new issue with:
    - Clear description of the problem
    - Steps to reproduce
@@ -238,4 +238,3 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ by [Your Name]**
