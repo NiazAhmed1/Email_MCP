@@ -33,14 +33,14 @@ A powerful Model Context Protocol (MCP) implementation for Gmail integration wit
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd gmail-mcp
+git clone git clone https://github.com/NiazAhmed1/Email_MCP.git
+cd Email_MCP
 ```
 
 ### 2. Install Dependencies
 
 ```bash
-pip install fastmcp python-dotenv requests imaplib2 langchain-mcp-adapters langgraph langchain-groq
+pip install -r requirements
 ```
 
 ### 3. Environment Setup
