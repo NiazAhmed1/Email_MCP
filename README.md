@@ -40,7 +40,7 @@ cd Email_MCP
 ### 2. Install Dependencies
 
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ### 3. Environment Setup
