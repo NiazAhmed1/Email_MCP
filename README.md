@@ -105,14 +105,14 @@ python Email_client.py
 ### Sending with Attachments
 
 ```
-🧮 Enter your question: Send an email to sarah@example.com with the quarterly report attached
+🧮 Enter your question: Send an email to niaz@example.com with the quarterly report attached
 ```
 
 ## 📁 Project Structure
 
 ```
-gmail-mcp/
-├── Email_client.py          # MCP server implementation
+Email-MCP/
+├── Email_Server.py          # MCP server implementation
 ├── Email_client.py          # AI agent client
 ├── .env                     # Environment variables
 ├── README.md               # This file
