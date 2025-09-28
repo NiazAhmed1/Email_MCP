@@ -37,7 +37,7 @@ async def main():
 
     try:
         print("MCP Client with Groq and FastMCP")
-        print("="*41)
+        print("="*40)
         print("Starting MCP client...")
         print(f"Connecting to server: {server_file}")
         
