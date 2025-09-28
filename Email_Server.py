@@ -74,7 +74,7 @@ def send_email(recipient: str, subject: str, body: str, attachment_path: str = N
         server.login(SMTP_USERNAME, SMTP_PASSWORD)
         server.sendmail(SMTP_USERNAME, recipient, msg.as_string())
         server.quit()
-        return "Email sent successfully."
+        return "Email sent successfully!"
     except Exception as e:
         return f"Failed to send email: {e}"
 
