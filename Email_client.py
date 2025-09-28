@@ -76,7 +76,7 @@ async def main():
                 
                 # Interactive loop starts here
                 print("\n" + "="*60)
-                print("🤖 MCP weather Agent is Ready!")
+                print("🤖 MCP Agent is Ready!")
                 print("\n💡 Type 'quit' or 'q' to exit")
                 print("="*60)
                 
