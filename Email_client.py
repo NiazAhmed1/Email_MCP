@@ -24,7 +24,7 @@ async def main():
         return
 
     # Start the server as a background process
-    print(f"🚀 Starting MCP server: {server_file}")
+    print(f"Starting MCP server: {server_file}")
     server_process = subprocess.Popen(
         [sys.executable, server_file],
         stdout=subprocess.PIPE,
