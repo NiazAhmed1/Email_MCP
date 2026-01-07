@@ -18,7 +18,7 @@ load_dotenv()
 async def main():
     # Check if MCP server file exists
 
-    server_file = "Email_client.py"
+    server_file = "Email_server.py"
     if not os.path.exists(server_file):
         print(f"Error: MCP server file '{server_file}' not found!")
         return
